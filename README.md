@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AlfonMML-dev. Currently I am in a cross-platform application development course
-- 👀 I’m interested in Java apps, Back-End Services and Internet of Things
-- 🌱 I’m currently learning Java, Python and SQL databases
+- 👀 I’m interested in Java and TypeScript apps, Back-End Services and Internet of Things
+- :closed_book: I have knowledge in Java, Android and SQL Databases 
+- 🌱 I’m currently learning TypeScript, Angular and MongoDB
 - 💞️ I’m looking to collaborate on projects based in technologies which I have mentioned previously
 - 📫 How to reach me alfonsommldevtech@gmail.com
